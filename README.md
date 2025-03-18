@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Otavio Goularti, tenho 20 anos e sou natural do Osasco-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
+Me chamo Otavio Goularti, tenho 20 anos e sou natural de Osasco-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/otaviogoularti/" target="_blank">
@@ -18,7 +18,7 @@ Me chamo Otavio Goularti, tenho 20 anos e sou natural do Osasco-SP. Concluí o e
 
 ---
 
-### 🤖 Linguagens, tecnologias e IDEs
+### 🤖 Linguagens e tecnologias
 
 </br>
 
@@ -35,20 +35,27 @@ Me chamo Otavio Goularti, tenho 20 anos e sou natural do Osasco-SP. Concluí o e
         <img align="left" alt="Bootstrap" title="Bootstrap"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
         <img align="left" alt="Figma" title="Bootstrap"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
         <img align="left" alt="MySQL" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        <img align="left" alt="Android Studio" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-        <img align="left" alt="Arduino IDE" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-        <img align="left" alt="Intellij" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-        <img align="left" alt="Pycharm" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-        <img align="left" alt="Visual Studio Code" title="MySQL"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</p>
+</br>
+
+---
+### 👾 IDEs
+
+</br>
+
+<p align="left">
+        <img alt="Android Studio" title="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+        <img alt="Arduino IDE" title="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+        <img alt="Intellij" title="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+        <img alt="Pycharm" title="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+        <img alt="VS Code" title="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<br/>
-<br/>
 
 ---
 
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviogoulartibs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviogoulartibs&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
