@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Otavio Goularti, tenho 20 anos e sou natural de Osasco-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
+Me chamo Otavio Goularti, tenho 20 anos e sou natural de Osasco-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/otaviogoularti/" target="_blank">
