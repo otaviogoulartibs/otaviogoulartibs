@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Otavio Goularti, tenho 20 anos e sou natural de Osasco-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
+Me chamo Otavio Goularti, tenho 20 anos e sou natural de Barueri-SP. Concluí o ensino médio no FIEB, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e gosto de tirar ideias do papel e colocá-las no mundo real.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/otaviogoularti/" target="_blank">
@@ -26,25 +26,10 @@ Me chamo Otavio Goularti, tenho 20 anos e sou natural de Osasco-SP. Concluí o e
         <img align="left" alt="HTML" title="HTML"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
         <img align="left"  alt="CSS" title="CSS"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
         <img align="left" alt="Javascript" title="Javascript"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img align="left" alt="Node" title="Node"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-        <img align="left" alt="Python" title="Python"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-        <img align="left" alt="Java" title="Java"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
         <img align="left" alt="React" title="React"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         <img align="left" alt="Bootstrap" title="Bootstrap"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
         <img align="left" alt="Figma" title="Bootstrap"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></p>
 </br>
-
----
-### 👾 IDEs
-
-</br>
-
-<p align="left">
-        <img alt="Intellij" title="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-        <img alt="Pycharm" title="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-        <img alt="VS Code" title="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
-
 
 ---
 
