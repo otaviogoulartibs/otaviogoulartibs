@@ -8,7 +8,7 @@ Me chamo Otavio Goularti, tenho 20 anos e sou natural de Barueri-SP. Concluí o 
     <a href="https://www.linkedin.com/in/otaviogoularti/" target="_blank">
         <img alt="Perfil do Linkedln" title="Bora se conectar" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/otaviogoulartibs/" target="_blank"><img alt="Perfil do Instagram" title="Me segue lá" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <a href="https://www.instagram.com/gular.sccp/" target="_blank"><img alt="Perfil do Instagram" title="Me segue lá" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@otaviogoularti?sub_confirmation=1" target="_blank">
         <img alt="Canal do YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
